@@ -12,8 +12,6 @@ npm install vue-template-inline --save-dev
 
 # Usage
 
-If your template line looks like it is including a vue file then it will be compiled and inlined during the gulp pipe process.
-
 myView.js
 ```
 Vue.component('example', {
